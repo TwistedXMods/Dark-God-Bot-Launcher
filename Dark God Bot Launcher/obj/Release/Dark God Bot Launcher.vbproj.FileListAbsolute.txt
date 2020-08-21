@@ -1,0 +1,27 @@
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Dark God Bot Launcher.exe.config
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Dark God Bot Launcher.exe
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Dark God Bot Launcher.pdb
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Dark God Bot Launcher.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\DotNetZip.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\MaxMind.Db.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Nancy.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\PCLStorage.Abstractions.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\PCLStorage.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\DotNetZip.pdb
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\DotNetZip.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\MaxMind.Db.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Microsoft.Build.Framework.pdb
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Microsoft.Build.Framework.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\Nancy.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\PCLStorage.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Release\PCLStorage.Abstractions.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark_God_Bot_Launcher.Form1.resources
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark_God_Bot_Launcher.Form2.resources
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark_God_Bot_Launcher.Resources.resources
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark God Bot Launcher.vbproj.GenerateResource.cache
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark God Bot Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark God Bot Launcher.vbproj.CopyComplete
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark God Bot Launcher.exe
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark God Bot Launcher.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Release\Dark God Bot Launcher.pdb

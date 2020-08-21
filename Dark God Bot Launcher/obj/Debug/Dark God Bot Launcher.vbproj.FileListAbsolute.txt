@@ -1,0 +1,27 @@
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Dark God Bot Launcher.exe.config
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Dark God Bot Launcher.exe
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Dark God Bot Launcher.pdb
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Dark God Bot Launcher.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark_God_Bot_Launcher.Resources.resources
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark God Bot Launcher.vbproj.GenerateResource.cache
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark God Bot Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark God Bot Launcher.exe
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark God Bot Launcher.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark God Bot Launcher.pdb
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark_God_Bot_Launcher.Form1.resources
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\DotNetZip.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\MaxMind.Db.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\PCLStorage.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\DotNetZip.pdb
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\DotNetZip.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\MaxMind.Db.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Microsoft.Build.Framework.pdb
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Microsoft.Build.Framework.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\PCLStorage.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark God Bot Launcher.vbproj.CopyComplete
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Nancy.dll
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\bin\Debug\Nancy.xml
+C:\Users\Twisted X Modz\Documents\source\Good Bots Code\Dark God\Dark God Bot Launcher\Dark God Bot Launcher\obj\Debug\Dark_God_Bot_Launcher.Form2.resources
